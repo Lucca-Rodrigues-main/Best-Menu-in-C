@@ -35,6 +35,7 @@ A função `Menu()` implementa um sistema interativo para consoles Windows, com:
      - `opcoes`: Array de strings.
      - `opsQtd`: Número de itens.
      - `texto`/`fundo`: Cores personalizáveis.
+<img width="157" height="119" alt="image" src="https://github.com/user-attachments/assets/e741d37c-a982-4500-b550-d5e85458495b" />
 
 ---
 
